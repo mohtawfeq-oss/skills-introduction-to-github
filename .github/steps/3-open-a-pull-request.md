@@ -12,9 +12,9 @@ You may have noticed after your commit that a message displayed indicating your 
 
 ![screenshot of message and button](https://github.com/mohtawfeq-oss/skills-introduction-to-github/blob/main/.github/images/compare-pull-request-button.png?raw=true)
 
-To create a pull request automatically, click **Compare & pull request** button, and then skip to step 5 below. Alternately, you practice creating it manually using the first 4 steps.
+To create a pull request automatically, click **Compare & pull request** button, and then skip to step 5 below. Alternatively, you can practice creating it manually using the first 4 steps.
 
-1. In the header menu of your repository, click the **Pull requests** tab .
+1. In the header menu of your repository, click the **Pull requests** tab.
 2. Click the **New pull request** button.
 3. Select the following branches using the dropdown menus.
    
